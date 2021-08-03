@@ -1,1 +1,4 @@
-google-chrome --remote-debugging-port=9297 --user-data-dir="/home/tanishk/Desktop/Python/Selenium/Attendace Bot/localhost"
+If do the follwoing commands in your terminal
+
+for uinix: google-chrome --remote-debugging-port=9297 --user-data-dir="location_of_you_folder"
+for windows : <location_of_google chorme.exe> --remote-debugging-port=9297 --user-data-dir="location_of_you_folder"
