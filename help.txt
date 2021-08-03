@@ -1,0 +1,1 @@
+google-chrome --remote-debugging-port=9297 --user-data-dir="/home/tanishk/Desktop/Python/Selenium/Attendace Bot/localhost"
